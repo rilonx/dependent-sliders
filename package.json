@@ -42,7 +42,6 @@
     "webpack-merge": "^4.1.2"
   },
   "dependencies": {
-    "angular-ui-bootstrap": "^2.5.6",
     "express": "^4.16.3"
   }
 }
