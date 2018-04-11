@@ -1,0 +1,17 @@
+[ignore]
+<PROJECT_ROOT>/dist
+<PROJECT_ROOT>/node_modules
+<PROJECT_ROOT>/.idea
+
+[include]
+
+
+[libs]
+
+
+[lints]
+
+[options]
+module.file_ext=.pug|.styl|.json
+
+[strict]

@@ -1,0 +1,27 @@
+{
+  "name": "quiz",
+  "description": "quiz",
+  "main": "index.js",
+  "authors": [
+    "alex subbota"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "quiz"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dist/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-ui-bootstrap": "^2.5.6",
+    "angular-material": "^1.1.8",
+    "angular-mocks": "^1.6.9"
+  }
+}

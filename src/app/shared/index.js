@@ -1,0 +1,5 @@
+export * from './widget/item/item.model'
+export * from './widget/widget.component'
+export * from './widget/item/item.component'
+export * from './widget/result/result.component'
+export * from './widget/widget.service'
